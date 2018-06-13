@@ -1,0 +1,23 @@
+{
+	"name" : "newsoftsnc/dbsql",
+	"description" : "Funzioni gestione defdata",
+	"keywords" : [
+		"yii2",
+		"date"
+	],
+	"type" : "yii2-extension",
+	"license" : "GPL-3.0-or-later",
+	"authors" : [{
+			"name" : "Newsoft s.n.c.",
+			"email" : "info@newsoftonline.it",
+			"homepage" : "http://www.newsoftonline.it"
+		}
+	],
+	"autoload" : {
+		"psr-4" : {
+			"newsoftsnc\\dbsql\\" : ""
+		}
+	},
+	"version" : "1.0.0",
+	"minimum-stability" : "dev"
+}
